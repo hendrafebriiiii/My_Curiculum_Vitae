@@ -1,0 +1,16 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -94,8 +94,12 @@
+                             <div class="my-3 flex items-center gap-5">
+                                 <img class="h-10 w-10" src="./image/icon/corel-draw-svgrepo-com.svg" alt="">
+                                 <h2 class="font-semibold">Corel Draw</h2>
+                             </div>
++                            <div class="my-3 flex items-center gap-5">
++                                <img class="h-10 w-10" src="./image/icon/linux-svgrepo-com.svg" alt="">
++                                <h2 class="font-semibold">Linux</h2>
++                            </div>
+                         </div>
+                         <div class="my-10">
+                             <h1
+                                 class="mb-5 text-2xl font-semibold tracking-widest border-b-2 border-sky-500 border-opacity-50">
